@@ -1,1 +1,1 @@
-task 8. Bye bye Betty
+task 12. File type
